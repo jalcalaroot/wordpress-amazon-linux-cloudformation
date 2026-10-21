@@ -1,2 +1,0 @@
-wordpress-amazon-linux-cloudformation
-

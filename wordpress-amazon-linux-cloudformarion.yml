@@ -35,8 +35,8 @@ Parameters:
     Default: admin
   DBPassword: 
     Type: String
+    NoEcho: true
     Description: password de la base de datos
-    Default: <DB_PASSWORD>
   DNSNombre:
     Description: Ingresa el nombre del dns que quieras 
     Type: String
